@@ -1,0 +1,16 @@
+
+body{
+   margin: 20px;
+}
+
+.postBtn{
+    padding: 5px 10px;
+    background-color: rgb(39, 198, 238);
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+}
+
+.postIkku{
+    height: 2rem;
+}
